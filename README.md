@@ -9,8 +9,8 @@
 ## 📊 Dashboard Live Demo
 
 
+![Movie Analysis Dashboard](Capture.PNG)
 
-![https://github.com/Ahnaf-Shahadat-Taseen/Movie-Industry-Analysis-Dashboard-using-Power-BI/blob/main/Capture.PNG(image_bc0397.png)]
 
 ---
 
